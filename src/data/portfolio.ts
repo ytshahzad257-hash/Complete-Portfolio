@@ -151,7 +151,7 @@ export const stats: StatItem[] = [
   },
   {
     label: 'Research Collaboration',
-    value: 'UK-Based',
+    value: 'International',
     detail:
       'Co-authoring publications with researchers connected to the University of Reading.',
   },
@@ -182,13 +182,13 @@ export const education: EducationItem[] = [
 export const memberships: MembershipItem[] = [
   {
     title: 'Remote Research Collaboration',
-    organization: 'UK-Based',
+    organization: 'International',
     detail:
       'Co-author of research publications through remote collaboration with University of Reading researchers.',
   },
   {
-    title: 'Officially Enrolled in Cybersecurity Certification Program',
-    organization: 'St. Louis Community College, USA',
+    title: 'St. Louis Community College, USA',
+    organization: 'Remote Enrollment',
     detail:
       'Advancing formal cybersecurity knowledge through structured online coursework.',
   },

@@ -1,0 +1,11 @@
+export { HomePage } from './HomePage';
+export { AboutPage } from './AboutPage';
+export { EducationPage } from './EducationPage';
+export { SkillsPage } from './SkillsPage';
+export { CertificationsPage } from './CertificationsPage';
+export { ExperiencePage } from './ExperiencePage';
+export { ProjectsPage } from './ProjectsPage';
+export { PublicationsPage } from './PublicationsPage';
+export { VolunteeringPage } from './VolunteeringPage';
+export { ContactPage } from './ContactPage';
+export { NotFoundPage } from './NotFoundPage';

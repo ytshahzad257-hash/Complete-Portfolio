@@ -32,7 +32,7 @@ export function AboutPage() {
       <PageIntro
         eyebrow="About"
         title="A polished profile shaped by cybersecurity discipline, academic rigor, and long-term information security goals."
-        description="Muhammad Shahzad is a Computer Science graduate from Kohat University of Science and Technology with a professional direction centered on cybersecurity, ethical hacking, secure web development, and research-aligned technical growth."
+        description="I am a Computer Science graduate from Kohat University of Science and Technology with a professional direction centered on cybersecurity, ethical hacking, secure web development, and research-aligned technical growth."
       />
 
       <section className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr]">
@@ -43,9 +43,9 @@ export function AboutPage() {
             </p>
             <div className="mt-5 space-y-5 text-sm leading-8 text-slate-600">
               <p>
-                {siteConfig.name} is a cybersecurity-focused professional from {siteConfig.location}{' '}
+                I am a cybersecurity-focused professional from {siteConfig.location}{' '}
                 with academic grounding in computer science and a growing portfolio of practical
-                security work. His background combines penetration testing, OWASP-aligned vulnerability
+                security work. My background combines penetration testing, OWASP-aligned vulnerability
                 assessment, secure web development awareness, and technical reporting for real-world
                 security improvement.
               </p>

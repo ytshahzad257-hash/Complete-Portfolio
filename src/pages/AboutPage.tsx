@@ -50,15 +50,15 @@ export function AboutPage() {
                 security improvement.
               </p>
               <p>
-                His work emphasizes identifying weaknesses responsibly, documenting security risks with
+                My work emphasizes identifying weaknesses responsibly, documenting security risks with
                 clarity, and supporting hardening efforts across web applications, network environments,
                 and foundational enterprise systems such as firewalls and Active Directory.
               </p>
               <p>
-                Alongside technical practice, he is engaged in remote research collaboration connected
-                to UK-based researchers and continues to advance his training through an online
+                Alongside technical practice, i am engaged in remote research collaboration connected
+                to UK-based researchers and continues to advance my training through an online
                 cybersecurity certification program from St. Louis Community College in the United
-                States. His long-term career focus spans information security, AI-informed secure
+                States. My long-term career focus spans information security, AI-informed secure
                 systems, and trustworthy digital infrastructure.
               </p>
             </div>
